@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman Sundurov.
 - 👀 I’m interested in Development and Securities.
-- 🌱 I’m currently learning iOS Development on the Raywenderlich, Codecademy, and Skillbox.
+- 🌱 I’m learned iOS Development on the Raywenderlich, Codecademy, and Skillbox.
 - 📫 How to reach me: roman.sundurov.work@gmail.com, https://www.facebook.com/roman.sundurov1
 
 <!---
