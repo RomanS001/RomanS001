@@ -1,11 +1,19 @@
 👋 Hi, I’m Roman Sundurov.
-I am looking for a job both remotely and ready to relocate to Europe, North America, or Australia. I will be glad to new contacts. 
-I have a very varied experience. I graduated from university with an LL.M. I worked as a project manager, account manager, and internet marketer. For the last three years, I have been studying ios development. Now I'm interested in finding a team of professionals and working as an ios developer.
+I want to join a team of professionals and work on complex projects. Now I am freelancing and doing my pet-project.
+I studied iOS development at Raywenderlich and Codecademy and continue to expand my skills.
 
-My competencies: Swift, UIKit, SwiftUI, UnitTests, UITests, RxSwift,
-Git Database: Realm, CoreData
+My competencies:
+Swift
+UIKit, SwiftUI
+Firebase
+UnitTests, UITests
+Core ML
+RxSwift
+RestAPI, Websocket
+Git
 Multithreading: GCD, Async/Await
 Architectures: MVC, MVVM, VIPER
+Database: Realm, CoreData
 Package managers: SPM, CocoaPods, Carthage
 
 My CV: https://drive.google.com/drive/folders/1Eu3abxbzRNKx_e1Yj9E8qXb8PGJCX27O?usp=sharingHi
