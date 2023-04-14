@@ -2,7 +2,7 @@
 
 My competencies:
 - General: Xcode, SPM, CocoaPods, Git, GitHub, UnitTests, UITests
-- Frameworks: UIKit, SwiftUI, Core ML, WidgetKit, StoreKit2
+- Frameworks: UIKit, SwiftUI, Cocoa, Core ML, WidgetKit, StoreKit2
 - Technologies: RestAPI, Websocket
 - Database: Firebase, Realm, CoreData
 - Architectures: MVC, MVVM, VIPER
@@ -12,7 +12,7 @@ My CV: https://drive.google.com/drive/folders/1Eu3abxbzRNKx_e1Yj9E8qXb8PGJCX27O?
 
 📫 How to reach me:
 - roman.sundurov.work@gmail.com
-- https://www.facebook.com/roman.sundurov.
+- LinkedIn: @roman-sundurov
 
 <!---
 RomanS001/RomanS001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
