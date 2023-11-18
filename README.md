@@ -13,13 +13,11 @@
 🎯 Career Objective
 As a versatile and experienced Full-Stack iOS/macOS developer, I am seeking challenging roles in innovative companies. I am open to opportunities that not only provide career growth but also the possibility of international relocation, including positions within U.S.-based organizations.
 
-My CV: https://drive.google.com/drive/folders/1Eu3abxbzRNKx_e1Yj9E8qXb8PGJCX27O?usp=sharingHi
-
 📫 Get In Touch
-Email: roman.sundurov.work@gmail.com
-LinkedIn: linkedin.com/in/roman-sundurov
-LeetCode: leetcode.com/romans001
-My Resume and Portfolio: https://drive.google.com/drive/folders/1Eu3abxbzRNKx_e1Yj9E8qXb8PGJCX27O?usp=sharing
+- Email: roman.sundurov.work@gmail.com
+- LinkedIn: linkedin.com/in/roman-sundurov
+- LeetCode: leetcode.com/romans001
+- My Resume and Portfolio: https://drive.google.com/drive/folders/1Eu3abxbzRNKx_e1Yj9E8qXb8PGJCX27O?usp=sharing
 
 <!---
 RomanS001/RomanS001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
