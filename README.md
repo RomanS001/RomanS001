@@ -1,4 +1,4 @@
-👋 Hi. I am an iOS/macOS Software Engineer with experience designing, developing, and deploying applications across various platforms. My collaborative efforts with international, English-speaking teams have enhanced my adaptability and commitment to learning. I am keen to advance my career by contributing to projects that challenge me and expand my skill set in any dynamic environment.
+👋 Hi! I am an iOS/macOS Software Engineer with experience designing, developing, and deploying applications across various platforms. My collaborative efforts with international, English-speaking teams have enhanced my adaptability and commitment to learning. I am keen to advance my career by contributing to projects that challenge me and expand my skill set in any dynamic environment.
 
 🛠 Technical Skills
 - Language and IDE: Swift, Xcode
